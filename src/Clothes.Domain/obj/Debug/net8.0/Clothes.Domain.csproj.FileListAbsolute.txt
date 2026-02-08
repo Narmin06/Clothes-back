@@ -9,3 +9,15 @@ C:\Users\ASUS\Desktop\Clothes\Clothes.Domain\obj\Debug\net8.0\Clothes.Domain.dll
 C:\Users\ASUS\Desktop\Clothes\Clothes.Domain\obj\Debug\net8.0\refint\Clothes.Domain.dll
 C:\Users\ASUS\Desktop\Clothes\Clothes.Domain\obj\Debug\net8.0\Clothes.Domain.pdb
 C:\Users\ASUS\Desktop\Clothes\Clothes.Domain\obj\Debug\net8.0\ref\Clothes.Domain.dll
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\bin\Debug\net8.0\Clothes.Domain.deps.json
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\bin\Debug\net8.0\Clothes.Domain.dll
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\bin\Debug\net8.0\Clothes.Domain.pdb
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\obj\Debug\net8.0\Clothes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\obj\Debug\net8.0\Clothes.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\obj\Debug\net8.0\Clothes.Domain.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\obj\Debug\net8.0\Clothes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\obj\Debug\net8.0\Clothes.Domain.sourcelink.json
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\obj\Debug\net8.0\Clothes.Domain.dll
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\obj\Debug\net8.0\refint\Clothes.Domain.dll
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\obj\Debug\net8.0\Clothes.Domain.pdb
+C:\Users\ASUS\Desktop\Clothes\src\Clothes.Domain\obj\Debug\net8.0\ref\Clothes.Domain.dll
