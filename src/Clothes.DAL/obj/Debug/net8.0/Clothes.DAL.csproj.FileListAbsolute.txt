@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\bin\Debug\net8.0\Clothes.DAL.deps.json
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\bin\Debug\net8.0\Clothes.DAL.runtimeconfig.json
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\bin\Debug\net8.0\Clothes.DAL.dll
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\bin\Debug\net8.0\Clothes.DAL.pdb
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\bin\Debug\net8.0\Clothes.Domain.dll
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\bin\Debug\net8.0\Clothes.Domain.pdb
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\Clothes.DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\Clothes.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\Clothes.DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\Clothes.DAL.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\Clothes.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\Clothes..5EB0B7DC.Up2Date
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\Clothes.DAL.dll
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\refint\Clothes.DAL.dll
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\Clothes.DAL.pdb
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\Clothes.DAL.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Clothes\Clothes.DAL\obj\Debug\net8.0\ref\Clothes.DAL.dll
